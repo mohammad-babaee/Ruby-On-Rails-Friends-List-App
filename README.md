@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 # rails-friendslist-app
 # rails-friendslist-app
+# rails-friendslist-app
