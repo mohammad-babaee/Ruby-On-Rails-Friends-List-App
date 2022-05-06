@@ -1,27 +1,28 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a ruby on rails web application !
 
-Things you may want to cover:
+I learn how to develop this app after watching some tutorials !
 
-* Ruby version
+Maybe it looks simple at the first time but , it cover the ( crud ) concept [create , read , update , destroy]
 
-* System dependencies
+You can register , login , logout , edit your profile , and make a list of your friends ...
 
-* Configuration
+* Ruby version : ruby 3.0.0p0
 
-* Database creation
+* Rails version :  Rails 7.0.2.4
 
-* Database initialization
+* System dependencies : Ruby , Rails , SQLite3 , Node.js , Yarn
 
-* How to run the test suite
+* Database : SQLite3 [ Really I don't Care About this because Database Switching is very easy with rails ! ]
 
-* Services (job queues, cache servers, search engines, etc.)
+* GemFiles : Devise [ I use this Gem to create Register/login/logout ]
 
-* Deployment instructions
+* Front-End framework that I Used For This Project is : Bootstrap
 
-* ...
-# rails-friendslist-app
-# rails-friendslist-app
-# rails-friendslist-app
+ -----------------------------------------------------
+
+* Have Fun With This Project !
+
+# Developer : Mohammad Babaee
+
